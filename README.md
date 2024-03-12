@@ -17,3 +17,5 @@ and g4(w2,w1,c);
 and g5(carry,w2,w3);
 endmodule
 ```
+# OUTPUT
+![image](https://github.com/SANJAY221104/FULL_ADDER/assets/120782435/68a23291-36a0-4cbd-b6af-e7c47851853e)
